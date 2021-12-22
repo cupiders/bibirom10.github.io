@@ -3,7 +3,7 @@ title: CUPID Test
 subtitle: by 박소현
 email: bibirom10@kaeri.re.kr
 description: High Fidelity Three-dimensional Thermal Hydraulics code <br /> for Single- and Two-phase Flows in Nuclear Reactor
-baseurl: ""  # the subpath of your site, e.g. /blog
+baseurl: ""  # Should be blank due to css directory
 url: "https://bibirom10.github.io/"  # the base hostname & protocol for your site
 author: 박소현
 street_address: Multiphysics Computational Science Research Team of KAERI
