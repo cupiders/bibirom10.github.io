@@ -1,0 +1,44 @@
+# site settings
+title: CUPID Test
+subtitle: by 박소현
+email: bibirom10@kaeri.re.kr
+description: High Fidelity Three-dimensional Thermal Hydraulics code <br /> for Single- and Two-phase Flows in Nuclear Reactor
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: "https://bibirom10.github.io/"  # the base hostname & protocol for your site
+author: 박소현
+street_address: Multiphysics Computational Science Research Team of KAERI
+city: Daejeon
+state: 충청북도
+zip_code: 12345
+country: Republic of Korea
+phone: (010) ***-****
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/bibirom10/bibirom10.github.io
+  GitLab: https://www.kaeri.re.kr/
+  Google-Plus: 
+  Instagram:
+  LinkedIn: 
+  Twitter: 
+  Facebook: https://ko-kr.facebook.com/atomkaeri
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
